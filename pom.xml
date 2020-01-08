@@ -19,7 +19,7 @@
         <jstl.version>1.2</jstl.version>
         <jsp.version>2.3.1</jsp.version>
         <spring.version>4.3.18.RELEASE</spring.version>
-        <hibernate.version>6.0.13.Final</hibernate.version>
+        <hibernate.version>6.1.0.Final</hibernate.version>
         <log4j.version>2.11.1</log4j.version>
         <pdfbox.version>2.0.12</pdfbox.version>
         <mysql.version>6.0.6</mysql.version>
